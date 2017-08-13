@@ -2,7 +2,7 @@
   "name": "hide-menu-bar",
   "main": "./lib/hide-menu-bar",
   "version": "1.0.1",
-  "description": "A short description of your package",
+  "description": "Enables the window menu bar hiding itself automatically",
   "keywords": [],
   "repository": "https://github.com/inkdropapp/inkdrop-hide-menu-bar",
   "license": "MIT",
