@@ -1,0 +1,15 @@
+{
+  "name": "hide-menu-bar",
+  "main": "./lib/hide-menu-bar",
+  "version": "1.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "repository": "https://github.com/inkdropapp/hide-menu-bar",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": ">=3.0.0 <4.0.0"
+  },
+  "dependencies": {
+  }
+}
