@@ -7,7 +7,7 @@
   "repository": "https://github.com/inkdropapp/inkdrop-hide-menu-bar",
   "license": "MIT",
   "engines": {
-    "inkdrop": ">=3.0.0 <4.0.0"
+    "inkdrop": "5.x"
   },
   "dependencies": {}
 }
